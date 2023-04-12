@@ -32,4 +32,12 @@ normal people.
   2. Test Knowledge of Signs - Recognizes user's hand motion and based on that shows user know sign language or not.
   3. About - It tells about the project.
   
+  ## Screenshots
+  ![instruction](https://user-images.githubusercontent.com/98030516/231341880-eb8f8978-b848-4d1c-881c-ccd52a1677ac.png)
+  ![demo](https://user-images.githubusercontent.com/98030516/231341920-e737b8d7-5e52-4b43-8709-cb9c5aecfec7.png)
+  ![aboutus](https://user-images.githubusercontent.com/98030516/231341957-ed0d59cf-599a-4242-8842-337d0fcdc52d.png)
+
+
+
+  
   
