@@ -1,4 +1,6 @@
 # HelpForYou
+
+## Introductry Screen
 ![homepage](https://user-images.githubusercontent.com/98030516/231335479-a9c47919-82b7-4e31-9b1e-26168c97ed73.jpeg)
 ## Inspiration
 Speech impaired people use hand signs and gestures to communicate. Normal people face difficulty in understanding their language.As a result, **HelpForYou** is a system which recognizes the different signs, gestures and conveys the information to the normal people. It bridges the gap between physically challenged people and
@@ -36,10 +38,13 @@ normal people.
   2. Practice Signs - Recognizes user's hand gestures and based on which user can create words practice sign language.
   3. About - It tells about the project.
   
-  ## Screenshots
+  ## Instruction page
   ![instruction](https://user-images.githubusercontent.com/98030516/231341880-eb8f8978-b848-4d1c-881c-ccd52a1677ac.png)
+  ## Signing words
   ![demo](https://user-images.githubusercontent.com/98030516/231341920-e737b8d7-5e52-4b43-8709-cb9c5aecfec7.png)
+  ## Moving to next word
   ![Sign Target Words](https://user-images.githubusercontent.com/91132355/231346982-5b10dab0-5048-4f8f-9338-01b0537f3a86.png)
+  ## About Us
   ![aboutus](https://user-images.githubusercontent.com/98030516/231341957-ed0d59cf-599a-4242-8842-337d0fcdc52d.png)
 
 
