@@ -23,16 +23,17 @@ normal people.
  
  ## How it Works
 **HelpForYou** is a system which recognizes the different signs, gestures and conveys the information to  physically challenged people and normal people.
-1. User have Sit in a well lit area , ensuring that permission for web cam is granted.
-2. It recognizes hand movement of 24 English Alphabets.
+1. Sit in a well lit area, ensuring that permission for web cam has been granted.
+2. It recognizes hand movement of 24 English Alphabets (excluding J and Z as their signs are not static).
 3. Ensure that your hand is positioned within the square frame.
 4. Press "." to close the webcam.
-5. User can now practice sign language.  
+5. Press "esc" key to make a word.
+6. You can now practice sign language.  
 
 
   ## Features
-  1. Hand Recoginition - Recognizes the hand motion of the user using webcam.
-  2. Practice Signs - Recognizes user's hand gestures and based on that user can practice sign language.
+  1. Hand Recoginition - Recognizes ASL hand gestures of the user using webcam.
+  2. Practice Signs - Recognizes user's hand gestures and based on which user can create words practice sign language.
   3. About - It tells about the project.
   
   ## Screenshots
