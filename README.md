@@ -19,7 +19,14 @@ normal people.
   ## Installation
   For using HELP FOR YOU web application , user have to follow some instructions:
   1. Clone the Repo
-    git clone https://github.com/surabhi-paliwal/HelpForYou2.git
+     ```sh
+     git clone [https://github.com/surabhi-paliwal/HelpForYou2.git]
+     ```
+ 2. Install packages
+    ```sh
+     pip install package_name
+     ```
+ 
   ## Features
   1. Hand Recoginition - Recognizes the hand motion of the user using webcam.
   2. Test Knowledge of Signs - Recognizes user's hand motion and based on that shows user know sign language or not.
