@@ -14,7 +14,7 @@ normal people.
   For using HELP FOR YOU web application , user have to follow some instructions:
   1. Clone the Repo
      ```sh
-     git clone [https://github.com/surabhi-paliwal/HelpForYou2.git]
+     git clone https://github.com/surabhi-paliwal/HelpForYou2.git
      ```
  2. Install packages
     ```sh
