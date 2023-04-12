@@ -27,12 +27,12 @@ normal people.
 2. It recognizes hand movement of 24 English Alphabets.
 3. Ensure that your hand is positioned within the square frame.
 4. Press "." to close the webcam.
-5. User can now his/her knowledge of sign language.  
+5. User can now practice sign language.  
 
 
   ## Features
   1. Hand Recoginition - Recognizes the hand motion of the user using webcam.
-  2. Test Knowledge of Signs - Recognizes user's hand motion and based on that shows user know sign language or not.
+  2. Practice Signs - Recognizes user's hand gestures and based on that user can practice sign language.
   3. About - It tells about the project.
   
   ## Screenshots
