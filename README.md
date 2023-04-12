@@ -39,6 +39,7 @@ normal people.
   ## Screenshots
   ![instruction](https://user-images.githubusercontent.com/98030516/231341880-eb8f8978-b848-4d1c-881c-ccd52a1677ac.png)
   ![demo](https://user-images.githubusercontent.com/98030516/231341920-e737b8d7-5e52-4b43-8709-cb9c5aecfec7.png)
+  ![Sign Target Words](https://user-images.githubusercontent.com/91132355/231346982-5b10dab0-5048-4f8f-9338-01b0537f3a86.png)
   ![aboutus](https://user-images.githubusercontent.com/98030516/231341957-ed0d59cf-599a-4242-8842-337d0fcdc52d.png)
 
 
