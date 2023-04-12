@@ -7,7 +7,7 @@ normal people.
 ## Tech Stack Used
 <img src="https://img.shields.io/badge/Python-ColourCode?logo=python&logoColor=yellow&style=ShieldStyle" />    <img src="https://img.shields.io/badge/HTML-ColourCode?logo=HTML&logoColor=orange&style=ShieldStyle" />    <img src="https://img.shields.io/badge/CSS-ColourCode?logo=CSS&logoColor=blue&style=ShieldStyle" />    <img src="https://img.shields.io/badge/flask-ColourCode?logo=flask&logoColor=yellow&style=ShieldStyle" />   <img src="https://img.shields.io/badge/javascript-ColourCode?logo=javascript&logoColor=orange&style=ShieldStyle" />
 
-**Python** is the programming language used to create the emotion recognition . CV2, MediaPipe, NumPy, pickle and other libraries are also utilized. The model is build using the RandomForest approach . We have our dataset stored as model3.pkl, which comprises around 2400 photos, was utilized for model training and validation. 
+**Python** is the programming language used to create the sign recognition model. CV2, MediaPipe, NumPy, pickle and other libraries have also been utilized. The model is built using RandomForest approach. We have our model stored as model3.pkl. Our dataset comprises of around 2400 photos, which were utilized for model training and validation. 
   This model is deployed on a website created with **HTML** and **CSS** using the **flask framework**.
   
   ## Installation
